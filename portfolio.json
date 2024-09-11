@@ -1,0 +1,289 @@
+{
+  "section": "Data Scientist",
+  "EmployeeName": "Brandon Abela",
+  "pageheader": "About Me",
+  "subHeader": "What I Do",
+  "carouselHeader": "Employers",
+  "WorkHeader": "Work Experience",
+  "skillsHeader": "Skills",
+  "contactHeader": "Contact",
+  "about": {},
+  "cards": [
+    {
+      "cardName": "Web Development",
+      "about": "Creation of high-quality, responsive dashboards and productivity websites using state-of-the-art frameworks.."
+    },
+    {
+      "cardName": "Software Development",
+      "about": "Utilisation of algorithmic solutions to tackle real-world issues with proficiency in multiple programming languages."
+    },
+    {
+      "cardName": "Machine Learning",
+      "about": "Development of artificial applications that employ advanced techniques to identify, analyse, and forecast patterns in data."
+    },
+    {
+      "cardName": "Game Development",
+      "about": "Design and development of both first-person shooter and top-down computer and mobile games, including level design, graphics, and scripting."
+    }
+  ],
+  "summary": "I am a tech enthusiast from Malta with a passion for software development, game design, and machine learning. I hold an M.Sc. in Machine Learning and Signal Processing and a B.Sc. in Computing Science. My diverse experience includes roles in Data Science, Front End Development, Research, and Assistant Lecturing.",
+  "summary1": "I have a track record of delivering successful projects, both for academic purposes and personal initiatives. Some of my works can be found on Github. I am a creative problem-solver, known for my sense of humour, and a genuine love for technology. I possess a forward-thinking mentality and have a talent for inspiring and motivating others in a team setting.",
+
+  "educationHeader": "Education",
+
+  "education": {},
+  "university": [
+    {
+      "degree": " Masters in Signal Processing and Machine Learning",
+      "year": "2019 -2021",
+      "university_location": "University Of Malta,Msida (Malta)",
+      "university_about": "The Master's program concentrates on the creation and execution of signal processing and machine learning systems. Signal processing involves the utilisation of mathematical techniques to extract and manipulate information from signals, and machine learning utilises trained models to identify patterns in data.",
+      "subject": [
+        "Python",
+        "LaTex",
+        "MATLAB",
+        "Open CV2",
+        "TensorFlow",
+        "Keras",
+        "Scikit Learn",
+        "OpenAI Gym",
+        "Matplotlib"
+      ]
+    },
+    {
+      "degree": " Bachelor of Science (Honours) (Computing Science)",
+      "year": "2016 - 2019",
+      "university_location": "University Of Malta, Msida (Malta)",
+      "university_about": "The Computing Science Degree program emphasises providing both scientific and practical skills to build, analyse, and sustain complex software systems.",
+      "subject": [
+        "Python",
+        "LaTex",
+        "MATLAB",
+        "Open CV2",
+        "TensorFlow",
+        "Keras",
+        "Scikit Learn",
+        "OpenAI Gym",
+        "Matplotlib",
+        "Open CV2",
+        "TensorFlow",
+        "Keras",
+        "Scikit Learn",
+        "OpenAI Gym",
+        "Matplotlib"
+      ]
+    },
+    {
+      "degree": " Professional Diploma in Digital Marketing",
+      "year": "2016 - 2016",
+      "university_location": "University Of Malta, Msida (Malta)",
+      "university_about": "The Diploma in Digital Marketing involved of 9 Modules which are:",
+      "project": [
+        "Introduction to Digital Marketing",
+        "Search Engine Optimisation",
+        "Pay Per Click Advertising",
+        "Email Marketing",
+        "Digital Display Marketing",
+        "Mobile Marketing",
+        "Social Media Marketing",
+        "Analytics",
+        "Strategy and Planning"
+      ]
+    },
+    {
+      "degree": " Post Secondary School",
+      "year": "2014 - 2016",
+      "university_location": "Giovanni Curmi Higher Secondary School, Naxxar (Malta)",
+      "university_about": "The Computing Science Degree program emphasises providing both scientific and practical skills to build, analyse, and sustain complex software systems."
+    },
+    {
+      "degree": " Secondary School",
+      "year": "2009 - 2014",
+      "university_location": "Saint Aloysius College, Birkirkara (Malta)",
+      "university_about": "The Computing Science Degree program emphasises providing both scientific and practical skills to build, analyse, and sustain complex software systems."
+    }
+  ],
+
+  "Work": {},
+  "work": [
+    {
+      "degree": " Data Scientist",
+      "year": "July 2021 - Present",
+      "university_location": "Bank of Valletta, Malta",
+      "project": [
+        "Managed the bank's Customer Risk Assessment and Enterprise-Wide Business Risk Assessment.",
+        "Conducted data collection and analysis, simulations, and annual reviews for the AFC Unit.",
+        "Developed a Data Lake containing customer information and transactions, and constructed Power BI reports using the data."
+      ],
+
+      "subject": [
+        "Python",
+        "LaTex",
+        "MATLAB",
+        "Open CV2",
+        "TensorFlow",
+        "Keras",
+        "Scikit Learn"
+      ]
+    },
+    {
+      "degree": " Visiting Assistant Lecturer",
+      "year": "Oct 2020 - Jan 2021",
+      "university_location": "University Of Malta, Msida (Malta)",
+      "project": [
+        "Delivered C++ tutorials to second-year computer engineering undergraduates."
+      ],
+
+      "subject": ["C++"]
+    },
+    {
+      "degree": "Researcher",
+      "year": "Jul 2020 - Sep 2020",
+      "university_location": "University Of Malta, Msida",
+      "subject": ["Python", "LaTex"],
+
+      "project": [
+        "Conducted research and developed a drone path planning algorithm utilising cliff photogrammetry and 3D axis movement."
+      ]
+    },
+    {
+      "degree": " Front End Developer",
+      "year": "Jun 2019 - Oct 2019",
+      "university_location": "Ascent Software, Malta",
+      "subject": [
+        "Python",
+        "LaTex",
+        "MATLAB",
+        "Open CV2",
+        "TensorFlow",
+        "Keras",
+        "Scikit Learn",
+        "OpenAI Gym"
+      ],
+      "project": [
+        "Contributed to the full project lifecycle of designing multiple components for a financial multi-tenant portal from planning to successful deployment."
+      ]
+    },
+    {
+      "degree": "Front End Developer",
+      "year": "Jun 2018 - Oct 2018",
+      "university_location": "Betsson, Malta",
+      "subject": ["Python", "LaTex", "MATLAB", "Open CV2", "TensorFlow"],
+      "project": [
+        "Contributed to the full project lifecycle of designing multiple components for a financial multi-tenant portal from planning to successful deployment."
+      ]
+    },
+    {
+      "degree": "Full Stack Developer",
+      "year": "Jun 2017 - Oct 2017",
+      "university_location": "KPMG Software, Malta",
+      "subject": [
+        "Python",
+        "LaTex",
+        "MATLAB",
+        "Open CV2",
+        "TensorFlow",
+        "Keras",
+        "Scikit Learn",
+        "OpenAI Gym"
+      ],
+      "project": [
+        "Designed multiple pages of a financial web application with a focus on security and safeguarding data."
+      ]
+    },
+    {
+      "degree": "Data Clerk",
+      "year": "Jun 2016 - Present",
+      "university_location": "Malta Tourism Authority, Malta",
+      "subject": ["Google Sheets", "Microsoft Excel"],
+      "project": [
+        "Implemented a data storage solution and generated statistical reports from the inputted data."
+      ]
+    }
+  ],
+
+  "Skills": {},
+  "skills": [
+    {
+      "specification": "Front End Development",
+      "subject": [
+        "Python",
+        "LaTex",
+        "MATLAB",
+        "Open CV2",
+        "TensorFlow",
+        "Keras",
+        "Scikit Learn",
+        "Python",
+        "LaTex",
+        "MATLAB",
+        "Open CV2",
+        "TensorFlow"
+      ]
+    },
+    {
+      "specification": "Functional Languages",
+      "subject": [
+        "C++",
+        "LaTex",
+        "MATLAB",
+        "Open CV2",
+        "TensorFlow",
+        "Keras",
+        "Scikit Learn",
+        "LaTex",
+        "MATLAB",
+        "Open CV2",
+        "TensorFlow",
+        "Keras",
+        "Scikit Learn"
+      ]
+    },
+    {
+      "specification": "Game Development",
+      "subject": [
+        "Python",
+        "LaTex",
+        "C++",
+        "LaTex",
+        "MATLAB",
+        "Open CV2",
+        "TensorFlow",
+        "Keras"
+      ]
+    },
+    {
+      "specification": "Machine Learning",
+      "subject": [
+        "Python",
+        "LaTex",
+        "MATLAB",
+        "Open CV2",
+        "TensorFlow",
+        "Keras",
+        "Scikit Learn"
+      ]
+    },
+    {
+      "specification": "Graphic Designer",
+      "subject": ["Python", "LaTex", "MATLAB", "Open CV2", "TensorFlow"]
+    },
+    {
+      "specification": "3D Modeler",
+      "subject": [
+        "Python",
+        "LaTex",
+        "MATLAB",
+        "Open CV2",
+        "TensorFlow",
+        "Keras",
+        "Scikit Learn",
+        "OpenAI Gym"
+      ]
+    },
+    {
+      "specification": "Video Editor",
+      "subject": ["Google Sheets", "Microsoft Excel", "OpenAI Gym"]
+    }
+  ]
+}
